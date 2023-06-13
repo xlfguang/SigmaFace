@@ -67,6 +67,11 @@ function Index() {
               <Btn>Uniswap</Btn>
             </a>
           </BtnBox>
+          <BtnBox>
+            <a href="https://t.me/SigmaFaceEthEntry" target="_blank">
+              <Btn>PinkSale</Btn>
+            </a>
+          </BtnBox>
         </IndexLeft>
         <IndexRight>
           <TopImg>

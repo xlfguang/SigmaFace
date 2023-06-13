@@ -53,7 +53,7 @@ export const BtnBox = styled.div`
   justify-content: space-evenly;
   margin-bottom: 10px;
 `;
-export const Btn = styled.div`
+export const Btn = styled.button`
   width: 150px;
 
   padding: 10px 20px 10px 10px;
