@@ -44,10 +44,10 @@ function Index() {
           <Contract>
             Contract Address:
             <a
-              href="https://app.uniswap.org/#/swap?use=V2&inputCurrency=ETH&outputCurrency=0x953D0B20a7D117b7Bd318a6Ff535E2C75983acCF"
+              href="https://app.uniswap.org/#/swap?use=V2&inputCurrency=ETH&outputCurrency=0xF13244DEe33F329eFe9E259BB49d59AfD7329213"
               target="_blank"
             >
-              0x953D....3acCF
+              0xF132....29213
             </a>
           </Contract>
           <BtnBox>
@@ -61,7 +61,7 @@ function Index() {
               <Btn>Telegram</Btn>
             </a>
             <a
-              href="https://app.uniswap.org/#/swap?use=V2&inputCurrency=ETH&outputCurrency=0x953D0B20a7D117b7Bd318a6Ff535E2C75983acCF"
+              href="https://app.uniswap.org/#/swap?use=V2&inputCurrency=ETH&outputCurrency=0xF13244DEe33F329eFe9E259BB49d59AfD7329213"
               target="_blank"
             >
               <Btn>Uniswap</Btn>
