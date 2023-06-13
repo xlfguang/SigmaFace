@@ -1,3 +1,4 @@
+
 import {
   Btn,
   BtnBox,
@@ -26,7 +27,6 @@ import img11 from "/src/assets/img11.png";
 import img12 from "/src/assets/img12.png";
 import img13 from "/src/assets/img13.png";
 import img14 from "/src/assets/img14.png";
-import img15 from "/src/assets/img15.png";
 
 function Index() {
   return (
@@ -88,7 +88,6 @@ function Index() {
             <LineImg src={img12}></LineImg>
             <LineImg src={img13}></LineImg>
             <LineImg src={img14}></LineImg>
-            <LineImg style={{ border: "none" }} src={img15}></LineImg>
           </TopImg>
           {/* <LineImg src={img3}></LineImg>
           <LineImg src={img4}></LineImg>
