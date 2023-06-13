@@ -68,6 +68,7 @@ function Index() {
             </a>
           </BtnBox>
           <BtnBox>
+            {/* PinkSale的跳转地址请修改a标签内的href */}
             <a href="https://t.me/SigmaFaceEthEntry" target="_blank">
               <Btn>PinkSale</Btn>
             </a>
