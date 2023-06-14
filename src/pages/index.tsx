@@ -23,10 +23,10 @@ import img7 from "/src/assets/img7.png";
 import img8 from "/src/assets/img8.png";
 import img9 from "/src/assets/img9.png";
 import img10 from "/src/assets/img10.png";
-import img11 from "/src/assets/img11.png";
 import img12 from "/src/assets/img12.png";
 import img13 from "/src/assets/img13.png";
 import img14 from "/src/assets/img14.png";
+import img16 from "/src/assets/img16.png";
 
 function Index() {
   return (
@@ -68,6 +68,7 @@ function Index() {
             </a>
           </BtnBox>
           <BtnBox>
+            {/* PinkSale的跳转地址请修改a标签内的href */}
             <a href="https://t.me/SigmaFaceEthEntry" target="_blank">
               <Btn>PinkSale</Btn>
             </a>
@@ -84,12 +85,13 @@ function Index() {
           <TopImg>
             <LineImg src={img6}></LineImg>
             <LineImg src={img7}></LineImg>
+
             <LineImg src={img8}></LineImg>
             <LineImg src={img9}></LineImg>
             <LineImg src={img10}></LineImg>
           </TopImg>
           <TopImg>
-            <LineImg src={img11}></LineImg>
+            <LineImg src={img16}></LineImg>
             <LineImg src={img12}></LineImg>
             <LineImg src={img13}></LineImg>
             <LineImg src={img14}></LineImg>
