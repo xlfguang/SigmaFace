@@ -98,7 +98,7 @@ export const TopImg = styled.div`
   display: flex;
   justify-content: space-between;
   margin-top: 60px;
-  transform: rotate(-10deg);
+  transform: rotate(-10deg) translateX(-3%);
   /* animation-name: ${breatheAnimation}; */
   /* animation-duration: 2s; */
   /* animation-timing-function: linear; */
@@ -107,5 +107,7 @@ export const TopImg = styled.div`
 export const LineImg = styled.img`
   border: 2px solid #fff;
   height: 100%;
+  width: 19%;
   margin: 0 20px;
+  object-fit: contain;
 `;
