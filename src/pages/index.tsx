@@ -1,3 +1,4 @@
+
 import {
   Btn,
   BtnBox,
@@ -22,11 +23,9 @@ import img7 from "/src/assets/img7.png";
 import img8 from "/src/assets/img8.png";
 import img9 from "/src/assets/img9.png";
 import img10 from "/src/assets/img10.png";
-import img11 from "/src/assets/img11.png";
 import img12 from "/src/assets/img12.png";
 import img13 from "/src/assets/img13.png";
 import img14 from "/src/assets/img14.png";
-import img15 from "/src/assets/img15.png";
 import img16 from "/src/assets/img16.png";
 
 function Index() {
@@ -45,10 +44,10 @@ function Index() {
           <Contract>
             Contract Address:
             <a
-              href="https://app.uniswap.org/#/swap?use=V2&inputCurrency=ETH&outputCurrency=0xF13244DEe33F329eFe9E259BB49d59AfD7329213"
+              href="https://app.uniswap.org/#/swap?use=V2&inputCurrency=ETH&outputCurrency=0x0E12F983eda5D8fDe7f8aa8F334132c351209a6c"
               target="_blank"
             >
-              0xF132....29213
+              0x0E12....09a6c
             </a>
           </Contract>
           <BtnBox>
@@ -62,15 +61,14 @@ function Index() {
               <Btn>Telegram</Btn>
             </a>
             <a
-              href="https://app.uniswap.org/#/swap?use=V2&inputCurrency=ETH&outputCurrency=0xF13244DEe33F329eFe9E259BB49d59AfD7329213"
+              href="https://app.uniswap.org/#/swap?use=V2&inputCurrency=ETH&outputCurrency=0x0E12F983eda5D8fDe7f8aa8F334132c351209a6c"
               target="_blank"
             >
               <Btn>Uniswap</Btn>
             </a>
           </BtnBox>
           <BtnBox>
-            {/* PinkSale的跳转地址请修改a标签内的href */}
-            <a href="https://t.me/SigmaFaceEthEntry" target="_blank">
+            <a href="https://www.pinksale.finance/launchpad/0x484Cb59dC5021c655ed4FFcb9099eb335112994b?chain=ETH" target="_blank">
               <Btn>PinkSale</Btn>
             </a>
           </BtnBox>
@@ -96,7 +94,6 @@ function Index() {
             <LineImg src={img12}></LineImg>
             <LineImg src={img13}></LineImg>
             <LineImg src={img14}></LineImg>
-            <LineImg style={{ border: "none" }} src={img15}></LineImg>
           </TopImg>
           {/* <LineImg src={img3}></LineImg>
           <LineImg src={img4}></LineImg>
