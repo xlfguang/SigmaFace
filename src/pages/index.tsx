@@ -85,15 +85,14 @@ function Index() {
           </TopImg>
           <TopImg>
             <LineImg src={img6}></LineImg>
-            <LineImg src={img16}></LineImg>
+            <LineImg src={img7}></LineImg>
 
             <LineImg src={img8}></LineImg>
             <LineImg src={img9}></LineImg>
             <LineImg src={img10}></LineImg>
           </TopImg>
           <TopImg>
-            <LineImg src={img7}></LineImg>
-
+            <LineImg src={img16}></LineImg>
             <LineImg src={img12}></LineImg>
             <LineImg src={img13}></LineImg>
             <LineImg src={img14}></LineImg>
